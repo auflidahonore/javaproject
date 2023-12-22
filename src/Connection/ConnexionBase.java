@@ -13,7 +13,7 @@ import java.sql.Statement;
 
 /**
  *
- * @author MARCELLINA
+ * @author Dao
  */
 public class ConnexionBase {
     public Connection con;
