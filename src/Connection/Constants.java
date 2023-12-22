@@ -7,7 +7,7 @@ package Connection;
 
 /**
  *
- * @author MARCELLINA
+ * @author Dao
  */
 public interface Constants{
 	public static final String HOST="localhost";//nom de la machine dans laquelle s'installe la base de données
